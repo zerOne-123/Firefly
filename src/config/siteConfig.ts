@@ -13,7 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Demo site",
 
 	// 站点 URL
-	site_url: "zerone-123.github.io",
+	site_url: "https://zerone-123.github.io",
 
 	// 站点描述
 	description:
